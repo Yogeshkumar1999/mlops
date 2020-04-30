@@ -1,0 +1,31 @@
+As we have seen as the huge data numpy is slow.
+we have best version of array==>tensor
+for tensor we need module tensorflow.
+It uses graph behind the scene.
+like we use the previous results in compitetive programming.(optimizing recurssion)(can see it as neuron)
+(lazzy execution) all new languages use this concept.
+In this we only can some expression to run if and onky if we call it.
+like
+c = a*b-1
+after 10 line
+print c#now we will execute te above expression.
+
+lambda is type of lazy execution.
+
+we can create var or constant in tensorflow
+
+
+@tf.function
+def lw(a,b):
+    c = a*b+1
+    d = a*b*3
+    print c
+    print d
+
+a = tf.constant(5)
+b = tf.constant(6)
+lw(a,b)
+
+
+finding the best weoght and ias for the model is know as emperical risk minimization.
+loss_function = (y - y')^2

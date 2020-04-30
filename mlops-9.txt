@@ -1,0 +1,21 @@
+we have to do feature selection.
+If a fetaure is not atall effecting the futer accuracy its better we remove the feature 
+as it will effect the performance of the model.
+multi colinearity==> if one independent feature is dependent on other independent feature.
+dimensionality reduction:
+	1. feature selection
+		1. filter(constant, quasi constant, corelation)manual
+		2. embedded
+		3. wrapper
+	2. feature extraction
+		1. algo pca(principal component analysis)(we remove duplicates from features)(automation of featur4e elemination)
+to get better accuracy and optimization.
+(ny, cal, florida)==>doubt
+
+feature selection using wrapper methid(use alot):
+we need to transform catagorical to numerical using one hot encoding.
+pd.get_dummies only convert the catagorical features.
+
+All the x should be independent.
+to remove the multi colinearity we use drop_first in pd.get_dummies()
+

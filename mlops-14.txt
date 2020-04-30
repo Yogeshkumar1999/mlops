@@ -1,0 +1,69 @@
+we will learn matplotlib
+data visualization:
+if we have any data ad to know th some kind of pattern we can wee the daat visualization.
+we draw the past data in this.
+matplotlib.
+seaborn.
+plt.scatter, plt.line. plt.histogram, plt.bar, plt.pie.
+
+data of gps coordinates to visualise best way ia map.
+
+folium libaray
+pip install folium.
+create as dataset of lat and long.
+lmap = folium.Map(location = [25.34523, 25.345325], zoom_start = 13)
+folium.Marker(location = [25.34523, 25.345325], popup = 'yogesh worl', icon = folium.icon).add_to(lmap)
+print lmap
+
+#openstreetmap is open source.
+we have diffenent style of the mpa in ther map function().
+#search for folium tiles it support.
+
+we have lot of options in the .Marker and the Map function see and enjoy.
+
+we can do live trACKING IN FOLIUM.
+in computer vison;:inriiv2 ace detection using harr cascade we hasve wrights pre trainerd.
+for collecting right time it woll takie lot of time.
+preptrained model he,ps us alot.
+for big dta ue the nn.
+for regression , classfication w use the normal ANN.
+for images and videos use the CNN.
+for time series dta use the RNN.
+we have different cnn
+RCNN, FRCNN, yolo.
+we pre created weight of the yolo.
+YOLO:
+if we want object detection we can use ore-tra8ned model.
+3 versions of the yolo we use version 3 of yolo.
+yolo:you only look ones.(trained on the pascal titan X )and has the 30fps.
+imagenet is fr images.
+coco datsetis smalle than tyhe imageet.(image quality is good.)
+coco has 80 diff objects.
+if imagenet they have 100+ objects can detect.
+we need to download the weogtts from web
+yolo built under thr frame work darknet.
+how to setup yoloV3.
+go to yolo.yml dir
+create envi.
+conda env create -f yolo.yml.
+to run the program 
+python detect.py
+--det dog/dog.jpg
+video-demo, cam-demo.py
+xaevir is the method tp init the weights.
+kera intializaers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

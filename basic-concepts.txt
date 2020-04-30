@@ -1,0 +1,3 @@
+the batch in the neural net means it pick random nathc size records and tyr to find thr weight and the bias.
+so in each epoch ot will take batch size inseted of running on the all dataset.
+

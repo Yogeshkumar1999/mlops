@@ -1,0 +1,29 @@
+#doubt fitting it with unseen data.
+
+
+Revised the feature elimination, finding the coeff_ to check the importance of the feature.
+weight is the every thing in the machine learning.
+OLS(model)###need to learn about it>>>>>
+Model performance depends upon the on of features.
+p value < 0.05 is vimp.(help to eliminate the feature)
+P-Value:
+    1. Topic of statistical element.
+    2. we have null and alternative hypo.
+    3. probability value(p-value)
+    4. need to see the imp of p value
+
+
+gretl--->software.
+p vlaue always thinka null hypo as every thing ia invalid feature
+if p vlaue < 5 per we reject the null hypo and accpet the alter native hypo 
+which is we need to keep the feature.
+A p-value less than 0.05 (typically ≤ 0.05) is statistically significant. It indicates strong evidence against the null hypothesis, as there is less than a 5% probability the null is correct (and the results are random). Therefore, we reject the null hypothesis, and accept the alternative hypothesis.
+
+===========================================================================
+face recognization:
+
+    
+    
+
+
+

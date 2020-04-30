@@ -1,0 +1,8 @@
+visualization:
+If we want to find the pattern then use algo if we want to find the patter use visualization.
+we use matplotlib
+and seaborn, plotly etc;
+seaborn.pairplot()
+we have lot of color pallets for this.
+
+

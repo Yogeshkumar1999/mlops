@@ -1,0 +1,6 @@
+we need a tool know as the frame work thta support graph is tensorflow.
+numpy dosent support graph.
+sklearn uses the numpy
+top level api is keras.
+
+

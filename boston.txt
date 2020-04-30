@@ -1,0 +1,19 @@
+output of the train_test_spliy is pandas data_frame
+type(x_train) == <class 'pandas.core.frame.DataFrame'>
+
+#image_processing
+in cv2 the order is BGR normally it i RGB
+in cv2 we have cv2.split()
+
+
+#python fillter function
+
+#syntaX
+filter(lambda, sequemce)
+
+ex:
+l = [1,234,45,21]
+filter(lambda x:x%2 == 0, l)
+Map takes all objects in a list and allows you to apply a function to it whereas Filter takes all objects in a list and runs that through a function to create a new list with all objects that return True in that function. Hence, knowing the functionality and using it accordingly is important as both the functions have very minute difference in there functionality.
+
+

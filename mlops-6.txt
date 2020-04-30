@@ -1,0 +1,56 @@
+(feature selection in machine learning
+To learn what are the best features for the model to train in order to increase the accuracy if the model and to norow down the variables.
+it will help ful when we have lot of independent varables to rain the
+in some cases these un wanted variable might decreae the accuracy of the mdoel.
+MAIN AND TUMB RULE TO REMOVE A COLUMN IF ALL THE VALUES IN THE COLUM IS SAME JUST REOMVE IT.👍️
+
+
+every independent column variable is know an features😊️.
+DOMAIN KNOWLEDGE HELPS A LOT FOR FEATURE SELECTION.
+
+Main Step In Ml Is Finding The Y And X.
+
+two ways to do feature selection
+1. manually(domain expert)(slow)
+2. trough code ==> (filter, wrapper method, embeded method)(fast)
+neuarl nets helps us more on feture selction use wraper method.
+lasso (l1 regularization) helps in feature selection.
+
+data collection plays major role to create a good model.
+filter_methos(feature selection):
+	(collage name, id, duration, marks, country(lot of variance))
+	y collage is not good.
+
+	
+programm
+	1.try correlation methide we get the corrlation between two featuers will help us to select the feature or to elemenate.
+	2. 95-99 as quasi constant(variane).
+	3. cal visualise in heat map.
+	4. useless featueres can also use more resources.
+
+
+	(COLLECT RIGHT DATA, HUGE DATA, FEATURE SELCTION.)MAJOR THREE PARTS IN ML.
+
+MULTILINEAR REGRESSION:
+	example price of the house using income, bedrooms, rooms, population, income, age of house).
+	MAIN ml understands only numerial data.
+	HOW ABOUT SEEIN THE R2 SCORE(we check score by adding the featres one by one or delete one by one).
+
+#second half
+computer vision video processing real time
+
+
+
+
+
+			
+
+	
+	
+	
+
+
+
+
+
+

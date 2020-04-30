@@ -1,0 +1,39 @@
+we learn about the tensorflow and keras.
+explaing the how name came from neurins.
+#Y iu ahvemt goit error while i am processing the bg file in lsh
+we can use generoter for yileding the line from huge fule
+f = open("file")
+def fun():
+    yield f.read(1024)
+
+deep learning id not only for classification we can use it for regression also
+we have lot of activation functions in deep learning-relu, softmax, sigmoid, tanh etc;
+the output for the regression is onr neuron.
+for regression we ned to use linear activation fuinction.
+we need to get the values of the w in any machiune learning model.
+in deep learning we have auto feature sleection.
+intially it pick some random weight and statrt the programm.
+always select random weights near zero.
+y - y' is loss
+the x and y is constant should be(constants)
+we can change the bias and the weight in neurons.(Variables)
+we need to min the error(loss).
+back propagation:
+#####8<F9#how can i see the ouptu in my phone.
+#####in back prop[agation if netweork is deep then the backpropagation for first layer is very very low how to slove.
+####gradient descent will checkt eh whole loss on al the data and then prform the slop(epochs)
+where as the sgd it will random take any record and perform the slop with tha loss of that record.
+
+optimizer(gd, sgd, mini dg).
+
+@@@@activation function is for calculating the slope.
+
+@@@with
+##how unternakl descent is calculated.
+##math of tape.gradient
+##mobile outptu.
+
+
+
+
+
